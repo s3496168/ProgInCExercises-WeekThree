@@ -1,13 +1,13 @@
 #include "wk3q4.h"
-#include <ctype.h>
 
+/* main has moved
 char * read();
 
 int main (){
     printf("Please provide input for q4 \n");
     read();
     return EXIT_SUCCESS;
-}
+}*/
 
 char * read(){
     /*to hold the char array*/
